@@ -8,7 +8,7 @@
     <security-constraint>
         <display-name>Sourcecode</display-name>
         <web-resource-collection>
-            <web-resource-name>source</web-resource-name>
+            <web-resource-name>stuffs</web-resource-name>
             <description/>
             <url-pattern>/source.html</url-pattern>
         </web-resource-collection>
